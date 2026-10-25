@@ -1,0 +1,20 @@
+nama = "nabila putri rahmawati"
+nisn = "0094916136"
+kelas = "XII.1"
+sekolah = "SMA Negeri 1 Kalianda"
+alamat = "jalur dua"
+anak = "2"
+citacita = "Pengusaha Sukses"
+hobi = "masak"
+umur = "17 Tahun"
+
+print("=== DATA SISWA ===")
+print("Nama siswa:", nama)
+nisn("Nisn:", nisn)
+print("Kelas:", kelas)
+print("Sekolah:", sekolah)
+print("Alamat:", alamat)
+print("Anak:", anak)
+print("Citacita:", citacita)
+print("Hobi:", hobi)
+print("Umur:", umur)
